@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+selenium
+webdriver-manager
+scrapy
+pymongo
+argparse
+anticaptchaofficial
+fake-useragent
