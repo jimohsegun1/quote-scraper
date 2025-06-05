@@ -7,7 +7,7 @@ A simple Python web scraper that extracts quotes, authors, and tags from [quotes
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 - Extracts text, author name, and tags
 - Works with static and dynamic pages
@@ -16,20 +16,20 @@ A simple Python web scraper that extracts quotes, authors, and tags from [quotes
 
 ---
 
-# Optional: Create virtual environment
+### Optional: Create virtual environment
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
-# Install all dependencies
+### Install all dependencies
 pip install -r requirements.txt
 
-# Run BeautifulSoup version
+### Run BeautifulSoup version
 python scraper.py
 
-# Run Selenium version
+### Run Selenium version
 python selenium_scraper.py
 
-## 📁 Folder Structure
+### 📁 Folder Structure
 
 ```text
 quote-scraper/
